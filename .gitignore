@@ -1,2 +1,5 @@
 config/
 BIGQUERY_CREDENTAL/
+appenv/
+myenv/
+myenv_test/
