@@ -1,1 +1,2 @@
 # twitter-presidental-analytics
+This project was to track sentiment related to President Biden and Donald Trump based on tweets. As twitter is often reflective of socities views and feelings of a person, place, or thing, I thought i would be interesting to use twitter to gauge public perception of the president and Trump.
