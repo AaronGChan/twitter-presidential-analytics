@@ -1,5 +1,6 @@
-config/
-BIGQUERY_CREDENTAL/
+config.py
+BIGQUERY_CREDENTAL.json
+app/BIGQUERY_CREDENTAL.json
 appenv/
 myenv/
 myenv_test/
