@@ -4,3 +4,4 @@ app/BIGQUERY_CREDENTAL.json
 appenv/
 myenv/
 myenv_test/
+__pycache__/
